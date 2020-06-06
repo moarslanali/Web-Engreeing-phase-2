@@ -1,0 +1,47 @@
+.main {
+  height:50px;
+  margin-bottom:5px;
+}
+
+.left {
+  float:left;
+  width:49%;
+  margin-right:2%;
+}
+
+.right {
+  float:right;
+  width:auto;
+}
+
+.foot {
+  background-color:#2f2f2f;
+  color:#a4a4a4;
+}
+
+#heading2 {
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.card {
+  height:auto;
+  width:auto;
+}
+
+.foot ul li a {
+  color:#a4a4a4;
+  font-size:18px;
+}
+
+#ficon a i {
+  color:white;
+}
+
+#ficon a i:hover {
+  color:#0069d9;
+}
+
+.navbar ul li a {
+  font-size:20px;
+}
+
